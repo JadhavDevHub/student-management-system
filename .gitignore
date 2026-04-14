@@ -1,0 +1,7 @@
+# React
+sms-frontend/node_modules/
+sms-frontend/build/
+
+# Spring Boot
+sms-backend/target/
+*.log
